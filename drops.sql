@@ -1,0 +1,17 @@
+drop table dar_pieza;
+drop table pieza;
+drop table tienda_online;
+drop table desguace;
+drop table vendedor;
+drop table participar;
+drop table accidente;
+drop table reparacion;
+drop table coderror;
+drop table cupon_descuento;
+drop table coche;
+drop table cliente;
+drop table mecanico;
+drop table ayudar;
+drop table tener_almacen;
+drop table almacen;
+drop table taller;
